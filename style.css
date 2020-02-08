@@ -1,0 +1,25 @@
+#heading {
+    text-align: center;
+    color: white;
+}
+
+#reset {
+    margin: auto;
+    margin-bottom: 50px;
+    display: flex;
+}
+
+#container {
+    display: grid;
+    border-color: white;
+    border-width: 1px;
+    border-style: solid;
+    grid-column-gap: 0;
+    grid-row-gap: 0;
+    width: 70vh;
+    margin-left: calc(50vw - 35vh);
+}
+
+html {
+    background-color: black;
+}
